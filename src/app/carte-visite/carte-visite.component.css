@@ -1,0 +1,35 @@
+.card {
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .card .content {
+    padding: 20px;
+  }
+  
+  .form-control {
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .btn-success {
+    background-color: #1908d6;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .btn-success:hover {
+    background-color: #3430fb;
+  }
+  
